@@ -9,6 +9,7 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.3193
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xlocale(2007,17): message : statement that may fall through is here
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xlocale(2210,13): warning C5262: implicit fall-through occurs here; are you missing a break statement? Use [[fallthrough]] when a break statement is intentionally omitted between cases
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xlocale(2207,17): message : statement that may fall through is here
+C:\Users\CCame\source\repos\WizardRunes\WizardRunes\WizardRunes\Source.cpp(18,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\atomic(917,9): warning C5262: implicit fall-through occurs here; are you missing a break statement? Use [[fallthrough]] when a break statement is intentionally omitted between cases
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\atomic(916,13): message : statement that may fall through is here
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\atomic(912,1): message : while compiling class template member function 'void std::_Atomic_storage<_Ty,4>::store(const long,const std::memory_order) noexcept'
@@ -162,4 +163,4 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.3193
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(716,28): warning C5264: 'std::is_move_assignable_v<std::ios_base::_Fnarray*>': 'const' variable is not used
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(716,28): warning C5264: 'std::is_move_assignable_v<std::locale*>': 'const' variable is not used
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xatomic_wait.h(22,42): warning C5264: '_Atomic_wait_no_deadline': 'const' variable is not used
-  WizardRunes.vcxproj -> C:\Users\CCame\source\repos\WizardRunes\x64\Debug\WizardRunes.exe
+  WizardRunes.vcxproj -> C:\Users\CCame\source\repos\WizardRunes\WizardRunes\x64\Debug\WizardRunes.exe

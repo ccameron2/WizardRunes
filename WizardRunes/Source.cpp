@@ -9,15 +9,22 @@
 // Decltype int. This resolves to the same as typing int
 //decltype(0)
 // Decltype void. This is the decltype of the call to a lambda function with no parameters or body
-//decltype([]() {}());
+
+
+// Nested ternary operators as if else
+//(boolean :
+//one 
+//?
+//(boolean : two ? three)
+//)
+
+// Use recursive bubble sort function to remove while loops
 
 #include <iostream>
 using namespace std;
 
-_ main() 
+__([]() {}()) main()
 {
-
-
 	///////////////////////////////////////////////////
 	_ $$ = {};
 	_ $ = {};
